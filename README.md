@@ -52,6 +52,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Specifications](#specifications)
+* [What I learned from this project](#what-i-learned-from-this-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -105,6 +106,8 @@ The given specifications were:
 * The Pop() method removes the object on top of the stack and returns it. 
 * The Clear() method removes all objects from the stack.
 
+## What I learned from this project
+How to implement a stack.
 
 <!-- GETTING STARTED -->
 ## Getting Started
