@@ -26,7 +26,7 @@
    <img src="/gitAssets/stackofrocks.jpg" height="300" width="300">
 </a>
 
-  <h3 align="center">Stack</h3>
+  <h1 align="center">Stack</h1>
 
   <p align="center">
     <a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop">
