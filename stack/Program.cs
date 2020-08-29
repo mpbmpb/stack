@@ -8,20 +8,20 @@ namespace stack
         {
             var stack = new Stack();
 
-            void populate()
+            void Populate()
             {
                 Console.WriteLine("populating stack");
                 stack.Push(1);
                 stack.Push("mosh");
                 stack.Push(DateTime.Now);
             }
-            populate();
+            Populate();
 
             Console.WriteLine("popping from stack...");
             for (int i = 0; i < 3; i++)
                 Console.WriteLine(stack.Pop());
 
-            populate();
+            Populate();
             Console.WriteLine("clearing stack");
             stack.Clear();
             stack.Clear();
