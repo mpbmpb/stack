@@ -200,14 +200,14 @@ Project Link: [https://github.com/mpbmpb/stack](https://github.com/mpbmpb/stack)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [coverage-shield]: https://img.shields.io/badge/coverage-100%25-brightgreen
 [tests-shield]: https://img.shields.io/badge/tests-passing-brightgreen
-[contributors-shield]: https://img.shields.io/github/contributors/mpbmpb/stack?color=blue&style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/mpbmpb/stack?color=blue&style=flat
 [contributors-url]: https://github.com/mpbmpb/stack/graphs/contributors
 [codesize-shield]: https://img.shields.io/github/languages/code-size/mpbmpb/stack
 [stars-shield]: https://img.shields.io/github/stars/mpbmpb/stack
 [stars-url]: https://github.com/mpbmpb/stack/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mpbmpb/stack?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/mpbmpb/stack?style=flat
 [issues-url]: https://github.com/mpbmpb/stack/issues
 [license-shield]: https://img.shields.io/github/license/mpbmpb/stack
 [license-url]: https://github.com/mpbmpb/stack/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mark-van-den-beemt-7805011b1/
